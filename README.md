@@ -1,10 +1,5 @@
 ### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="250px">
----
 
-I am a security software engineer specializing in red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
-
-
-I also have a small ![blog](https://christopherja.rocks/posts/) that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.
 
 ##### Currently working on
  * 🦊 C# Red Teaming Toolkit for OSEP
@@ -19,6 +14,13 @@ I also have a small ![blog](https://christopherja.rocks/posts/) that i try to wr
  * ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me%20on%20twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71)
  * ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
  
+---
+
+I am a security software engineer specializing in red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
+
+
+I also have a small ![blog](https://christopherja.rocks/posts/) that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.
+
 ---
 🧰 🛠️
 
