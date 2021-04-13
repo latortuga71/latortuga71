@@ -1,4 +1,4 @@
-### Remember this gif <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/dancerbanana.gif" width="50px"> 
+### <img src="https://img.memecdn.com/im-a-dragon-ball-z-fan-sorry_o_683312.gif" width="150px"> 
 
 :basketball: ➡️ 🖥️ 
 ---
