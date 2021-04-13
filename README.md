@@ -4,18 +4,14 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/latortuga71?label=Current%20followers&style=social) ![Keybase PGP](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
 
 ---
-summary
+I am a security software engineer specializing in red team and blue team tool development,Backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
 
 
-testestt
+I also have a small ![blog](https://christopherja.rocks/posts/) that i try to write small things that could help the community. Some of the technologies i have proffessional experience with are listed below.
 
-
-testest
-
-testet
 
 ---
-skills
+I like working with.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" alt="red hat logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows logo" width="50" height="50"> 
 
