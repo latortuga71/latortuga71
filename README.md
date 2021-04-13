@@ -1,7 +1,7 @@
 ### Hello fellow computer people :basketball: ➡️ 🖥️ 
 
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/latortuga71?style=social) ![Keybase PGP](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/latortuga71?label=Current%20followers&style=social) ![Keybase PGP](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
 
 ---
 summary
