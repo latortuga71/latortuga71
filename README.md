@@ -1,15 +1,16 @@
 ### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="250px">
 ---
 
-
 I am a security software engineer specializing in red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
 
 
 I also have a small ![blog](https://christopherja.rocks/posts/) that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.
 
-Currently working on
- * 🦊 C# Red Teaming Toolkit for OSEP 
-Future Projects 
+##### Currently working on
+ * 🦊 C# Red Teaming Toolkit for OSEP
+
+
+##### Future Projects 
  * ☄️ gRPC based C2 framework 
  * 🖨️ Browser Extensions 
  * 🦡 Electron Desktop App
