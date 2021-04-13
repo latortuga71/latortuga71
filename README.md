@@ -17,7 +17,6 @@ I also have a small ![blog](https://christopherja.rocks/posts/) that i try to wr
 🗒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ↪️ [...More blog posts](https://christopherja.rocks/posts/)
