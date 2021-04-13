@@ -2,10 +2,10 @@
 ---
 ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me%20on%20twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71) ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
 
-I am a security software engineer specializing in red team and blue team tool development,Backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
+I am a security software engineer specializing in red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
 
 
-I also have a small ![blog](https://christopherja.rocks/posts/) that i try to write small things that could help the community. Some of the technologies i have proffessional experience with are listed below.
+I also have a small ![blog](https://christopherja.rocks/posts/) that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.
 
 
 ---
