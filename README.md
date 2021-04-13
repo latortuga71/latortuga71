@@ -1,5 +1,6 @@
-### Hello fellow computer people :basketball: ➡️ 🖥️ 
+### Remember this gif <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/dancerbanana.gif" width="50px"> 
 
+:basketball: ➡️ 🖥️ 
 ---
 ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me%20on%20twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71) ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
 
