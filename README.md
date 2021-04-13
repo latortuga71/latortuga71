@@ -1,6 +1,4 @@
-### <img src="https://img.memecdn.com/im-a-dragon-ball-z-fan-sorry_o_683312.gif" width="150px"> 
-
-:basketball: ➡️ 🖥️ 
+### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="250px">
 ---
 ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me%20on%20twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71) ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
 
