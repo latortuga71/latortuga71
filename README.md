@@ -7,8 +7,24 @@
 summary
 
 
+testestt
+
+
+testest
+
+testet
+
+---
+skills
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="cpp logo" width="50" height="50"> 
+
+---
+
 <!--
 **latortuga71/latortuga71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71) 
 
 Here are some ideas to get you started:
 
