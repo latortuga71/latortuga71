@@ -7,6 +7,14 @@ I am a security software engineer specializing in red team and blue team tool de
 
 I also have a small ![blog](https://christopherja.rocks/posts/) that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.
 
+Currently working on
+ * C# Red Teaming Toolkit for OSEP
+
+Future Projects 
+ * gRPC based C2 framework
+ * Browser Extensions
+ * Electron Desktop App
+ 
 
 ---
 🧰 🛠️
@@ -26,8 +34,10 @@ I also have a small ![blog](https://christopherja.rocks/posts/) that i try to wr
 
 ↪️ [...More blog posts](https://christopherja.rocks/posts/)
 
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latortuga71)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=latortuga71)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **latortuga71/latortuga71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
