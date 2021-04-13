@@ -17,6 +17,11 @@ I also have a small ![blog](https://christopherja.rocks/posts/) that i try to wr
 🗒️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OSWE Exam Tips](https://christopherja.rocks/posts/2020/12/oswe-exam-tips/)
+- [AzureADSync BackDoor](https://christopherja.rocks/posts/2020/05/azureadsync-backdoor/)
+- [OSCE Exam Tips](https://christopherja.rocks/posts/2020/04/osce-exam-tips/)
+- [Phishing AMSI Bypass](https://christopherja.rocks/posts/2020/02/phishing-amsi-bypass/)
+- [Splunk-G-Suite-Python-App](https://christopherja.rocks/posts/2020/02/splunk-g-suite-python-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ↪️ [...More blog posts](https://christopherja.rocks/posts/)
