@@ -17,9 +17,10 @@ testet
 ---
 skills
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="cpp logo" width="50" height="50"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" alt="red hat logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-xp-professional-1.svg" alt="windows logo" width="50" height="50"> 
 
 ---
+
 
 <!--
 **latortuga71/latortuga71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
