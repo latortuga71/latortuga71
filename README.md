@@ -15,6 +15,7 @@
  * ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
  
 ---
+### ```whoami```
 
 I am a security software engineer specializing in red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
 
