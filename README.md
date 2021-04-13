@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello fellow computer people :basketball: ➡️ 🖥️ 
+
+---
+![Twitter Follow](https://img.shields.io/twitter/follow/latortuga71?style=social)
+
 
 <!--
 **latortuga71/latortuga71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
