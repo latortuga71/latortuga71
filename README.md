@@ -1,7 +1,7 @@
 ### Hello fellow computer people :basketball: ➡️ 🖥️ 
 
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/latortuga71?label=Current%20followers&style=social) ![Keybase PGP](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me%20on%20twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71) ![Keybase PGP](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
 
 ---
 I am a security software engineer specializing in red team and blue team tool development,Backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities.
