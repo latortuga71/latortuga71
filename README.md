@@ -31,11 +31,11 @@ I also have a small blog that i try to write small things that could help the co
 ### `latest blogs`
 
 <!-- BLOG-POST-LIST:START -->
+- [OSEP Exam tips](https://christopherja.rocks/posts/2021/04/osep-exam-tips/)
 - [OSWE Exam Tips](https://christopherja.rocks/posts/2020/12/oswe-exam-tips/)
 - [AzureADSync BackDoor](https://christopherja.rocks/posts/2020/05/azureadsync-backdoor/)
 - [OSCE Exam Tips](https://christopherja.rocks/posts/2020/04/osce-exam-tips/)
 - [Phishing AMSI Bypass](https://christopherja.rocks/posts/2020/02/phishing-amsi-bypass/)
-- [Splunk-G-Suite-Python-App](https://christopherja.rocks/posts/2020/02/splunk-g-suite-python-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
