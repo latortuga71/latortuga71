@@ -42,9 +42,9 @@ I also have a small ![blog](https://christopherja.rocks/posts/) that i try to wr
 ---
 
 ### `stat`
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latortuga71)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latortuga71&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=latortuga71)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=latortuga71&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **latortuga71/latortuga71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
