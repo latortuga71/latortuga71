@@ -1,5 +1,7 @@
-### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="400px">
-
+<!-- ### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="400px"> spike ramen--> 
+<!-- ### <img src="https://64.media.tumblr.com/a82ec3e05319b1e6841f30f22256bd8b/tumblr_mw2dvqJNjs1r07tfbo1_250.gifv" width="300px"> flcl -->
+### <img src="https://64.media.tumblr.com/c47c6ca9e3bb90edb24182c5b77ad6b9/tumblr_mlf59n1q121roi27ho1_400.gifv" width="400px">
+<!-- ### <img src="https://64.media.tumblr.com/925d019184ee5d0cc7839b63f346b98f/tumblr_n7r5qpSVAE1sybqm2o9_400.gifv" width="300px">  flcl atomsk-->
 
 ##### Currently working on
  * 🦊 C# Red Teaming Toolkit for OSEP
