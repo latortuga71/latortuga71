@@ -23,7 +23,7 @@ I also have a small blog that i try to write small things that could help the co
  * 🦡 Electron Desktop App
  
 #### `Reach Me`
- * ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me%20on%20twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71)
+ * ![Twitter URL](https://img.shields.io/twitter/url?label=latortuga71&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71)
  * ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
  
 ---
