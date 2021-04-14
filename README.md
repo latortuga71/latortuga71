@@ -5,8 +5,9 @@
 I also have a small blog that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.</b>.
   </em>
 </p>
- <img align="right" alt="GIF" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" />
-<!-- ### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="400px"> spike ramen--> 
+ <img align="right" alt="GIF" src="https://64.media.tumblr.com/c47c6ca9e3bb90edb24182c5b77ad6b9/tumblr_mlf59n1q121roi27ho1_400.gifv" />
+ 
+<!-- ### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="400px"> spike ramen --> 
 <!-- ### <img src="https://64.media.tumblr.com/a82ec3e05319b1e6841f30f22256bd8b/tumblr_mw2dvqJNjs1r07tfbo1_250.gifv" width="300px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/c47c6ca9e3bb90edb24182c5b77ad6b9/tumblr_mlf59n1q121roi27ho1_400.gifv" width="400px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/e7c826f9355e2dc3b14c89b92efd320b/tumblr_n7r5qpSVAE1sybqm2o5_400.gifv" width="400px"> -->
