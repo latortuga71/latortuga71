@@ -4,16 +4,16 @@
 <!-- ### <img src="https://64.media.tumblr.com/e7c826f9355e2dc3b14c89b92efd320b/tumblr_n7r5qpSVAE1sybqm2o5_400.gifv" width="400px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/925d019184ee5d0cc7839b63f346b98f/tumblr_n7r5qpSVAE1sybqm2o9_400.gifv" width="300px">  flcl atomsk-->
 
-##### Currently working on
+##### `Currently working on`
  * 🦊 C# Red Teaming Toolkit for OSEP
 
 
-##### Future Projects 
+##### `Future Projects` 
  * ☄️ gRPC based C2 framework 
  * 🖨️ Browser Extensions 
  * 🦡 Electron Desktop App
  
- Reach Me
+##### `Reach Me`
  * ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me%20on%20twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71)
  * ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
  
