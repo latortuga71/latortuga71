@@ -14,10 +14,6 @@ I also have a small blog that i try to write small things that could help the co
 <!-- ### <img src="https://64.media.tumblr.com/925d019184ee5d0cc7839b63f346b98f/tumblr_n7r5qpSVAE1sybqm2o9_400.gifv" width="300px">  flcl atomsk-->
 
 #### `Currently working on`
- * 🦊 C# Red Teaming Toolkit for OSEP
-
-
-#### `Future Projects` 
  * ☄️ gRPC based C2 framework 
  * 🖨️ Browser Extensions 
  * 🦡 Electron Desktop App
