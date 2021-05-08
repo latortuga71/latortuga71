@@ -1,7 +1,7 @@
 ## Latortuga71
 <p>
   <em>
-    I am a <b>human</b> that likes red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities. 
+    I am a <b>turtle</b> that likes red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities. 
 I also have a small blog that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.</b>.
   </em>
 </p>
