@@ -15,8 +15,8 @@ I also have a small blog that i try to write small things that could help the co
 
 #### `Currently working on`
  * ☄️ gRPC based C2 framework 
- * 🖨️ Browser Extensions 
- * 🦡 Electron Desktop App
+ * 🦡 Electron Frontend for C2 Framework
+ *  🖨️ Browser Extensions 
  
 #### `Reach Me`
  * ![Twitter URL](https://img.shields.io/twitter/url?label=latortuga71&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71)
