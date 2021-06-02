@@ -1,8 +1,7 @@
 ## Latortuga71
 <p>
   <em>
-    I am a man that likes red team and blue team tool development, backend web technologies such as rest API development, manipulating and cleaning data. And automation of red team and blue team activities. 
-I also have a small blog that i try to write small things that could help the community. Some of the technologies i have professional experience with are listed below.</b>.
+    I write code, sometimes security related.</b>
   </em>
 </p>
  <img align="right" alt="GIF" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" />
