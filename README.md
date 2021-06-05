@@ -13,7 +13,7 @@
 <!-- ### <img src="https://64.media.tumblr.com/925d019184ee5d0cc7839b63f346b98f/tumblr_n7r5qpSVAE1sybqm2o9_400.gifv" width="300px">  flcl atomsk-->
 
 #### `Currently working on`
- * ☄️ gRPC based C2 framework 
+ * ☄️ POC gRPC based C2 framework 
  * 🦡 Electron Frontend for C2 Framework
  *  🖨️ Browser Extensions 
  
