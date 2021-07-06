@@ -29,11 +29,11 @@
 ### `latest blogs`
 
 <!-- BLOG-POST-LIST:START -->
+- [Youtube as a C2](https://christopherja.rocks/posts/2021/07/youtube-as-a-c2/)
 - [OSEP Exam tips](https://christopherja.rocks/posts/2021/04/osep-exam-tips/)
 - [OSWE Exam Tips](https://christopherja.rocks/posts/2020/12/oswe-exam-tips/)
 - [AzureADSync BackDoor](https://christopherja.rocks/posts/2020/05/azureadsync-backdoor/)
 - [OSCE Exam Tips](https://christopherja.rocks/posts/2020/04/osce-exam-tips/)
-- [Phishing AMSI Bypass](https://christopherja.rocks/posts/2020/02/phishing-amsi-bypass/)
 <!-- BLOG-POST-LIST:END -->
 
 
