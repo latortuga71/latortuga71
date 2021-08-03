@@ -11,7 +11,7 @@
 <!-- ### <img src="https://64.media.tumblr.com/c47c6ca9e3bb90edb24182c5b77ad6b9/tumblr_mlf59n1q121roi27ho1_400.gifv" width="400px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/e7c826f9355e2dc3b14c89b92efd320b/tumblr_n7r5qpSVAE1sybqm2o5_400.gifv" width="400px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/925d019184ee5d0cc7839b63f346b98f/tumblr_n7r5qpSVAE1sybqm2o9_400.gifv" width="300px">  flcl atomsk-->
-<img align="right" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="300px">
+<img align="center" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="300px">
 
 #### `Currently working on`
  * [X] POC gRPC based C2 framework
