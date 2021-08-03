@@ -4,13 +4,14 @@
     I write code, sometimes security related.</b>
   </em>
 </p>
- <img align="right" alt="GIF" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" />
- <!-- https://media4.giphy.com/media/ixmzSYVKYrHgc/giphy.gif?cid=ecf05e4790jme06l8obzh9554c1srcncdz6rjef92l50uo6g&rid=giphy.gif&ct=g -->
+<!-- <img align="right" alt="GIF" src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" />
+<!-- https://media4.giphy.com/media/ixmzSYVKYrHgc/giphy.gif?cid=ecf05e4790jme06l8obzh9554c1srcncdz6rjef92l50uo6g&rid=giphy.gif&ct=g -->
 <!-- ### <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO81qjj1zvo1_500.gifv" width="400px"> spike ramen --> 
 <!-- ### <img src="https://64.media.tumblr.com/a82ec3e05319b1e6841f30f22256bd8b/tumblr_mw2dvqJNjs1r07tfbo1_250.gifv" width="300px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/c47c6ca9e3bb90edb24182c5b77ad6b9/tumblr_mlf59n1q121roi27ho1_400.gifv" width="400px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/e7c826f9355e2dc3b14c89b92efd320b/tumblr_n7r5qpSVAE1sybqm2o5_400.gifv" width="400px"> -->
 <!-- ### <img src="https://64.media.tumblr.com/925d019184ee5d0cc7839b63f346b98f/tumblr_n7r5qpSVAE1sybqm2o9_400.gifv" width="300px">  flcl atomsk-->
+<img align="right" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="300px">
 
 #### `Currently working on`
  * [X] POC gRPC based C2 framework
