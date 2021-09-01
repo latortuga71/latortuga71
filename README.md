@@ -30,11 +30,11 @@
 ### `latest blogs`
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows CTF Writeup](https://christopherja.rocks/posts/2021/08/windows-ctf-writeup/)
 - [Youtube as a C2](https://christopherja.rocks/posts/2021/07/youtube-as-a-c2/)
 - [OSEP Exam tips](https://christopherja.rocks/posts/2021/04/osep-exam-tips/)
 - [OSWE Exam Tips](https://christopherja.rocks/posts/2020/12/oswe-exam-tips/)
 - [AzureADSync BackDoor](https://christopherja.rocks/posts/2020/05/azureadsync-backdoor/)
-- [OSCE Exam Tips](https://christopherja.rocks/posts/2020/04/osce-exam-tips/)
 <!-- BLOG-POST-LIST:END -->
 
 
