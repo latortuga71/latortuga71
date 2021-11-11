@@ -23,10 +23,6 @@
  * ![KeyBase](https://img.shields.io/keybase/pgp/latortuga71?label=Keybase%20PGP&style=social)
  
 ---
-### `skills`
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp logo" width="70" height="70"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="70" height="70"><img src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" alt="red hat logo" width="70" height="70"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows logo" width="70" height="70"> 
----
 
 ### `latest blogs`
 
