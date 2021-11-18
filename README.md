@@ -15,8 +15,6 @@
 
 #### `Currently...`
   * [ ] Reading Alot
-  * [ ] EXP-312
-  * [ ] CRTO
  
 #### `Reach Me`
  * ![Twitter URL](https://img.shields.io/twitter/url?label=latortuga71&style=social&url=https%3A%2F%2Ftwitter.com%2Flatortuga71)
